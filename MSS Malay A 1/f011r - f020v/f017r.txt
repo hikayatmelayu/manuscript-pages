@@ -1,0 +1,8 @@
+# MD5
+d6eaeda832d49cb94cac2c3470204070  mss_malay_a_1_f017r.tiff
+# MD6-512
+1aec899ecfd99cb298d618bff7875238afa93ed9f7dea442cacaeb2d56626da0ea667006176c9379c6f3f6462c858ad238ae13f7e44c77e7bfd38c74b7fb0b47  mss_malay_a_1_f017r.tiff
+# SHA3-512
+8f909032395b3dea0d93dfad312b0c09d24849df944daee01f46fda000ab6cb17ca7ed60afd89325f2b28fcb239ca10514fbf4760d71cb32c4669f6c28fbb7cc  mss_malay_a_1_f017r.tiff
+# CRC32
+656ea10b  mss_malay_a_1_f017r.tiff
